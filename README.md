@@ -3,7 +3,10 @@ Team 4 Working Code
 
 Team 4 Project Only Push Working Code
 This is where you put WORKING CODE.
-
+3.
+5.
+9.
+11.
 - You can also create folders by using **folderName/fileName.cpp** (no extension = folder)
 
 Be sure to include documentation!
